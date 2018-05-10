@@ -1,0 +1,15 @@
+p.teste1{
+  font-size: 50 ;
+}
+p.teste{
+  font-size: 10;
+}
+th{
+  font-size: 15;
+  font-family: Arial;
+  font-weight: normal;
+  border: 100px;
+}
+div{
+  display : inline-block;
+}
